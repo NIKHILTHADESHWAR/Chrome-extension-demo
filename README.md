@@ -9,3 +9,5 @@ Nice and simple chrome extension
 - Thats it
 
 ## As always pull requests are always welcomed
+
+Icon credits - https://www.flaticon.com/authors/lyolya
